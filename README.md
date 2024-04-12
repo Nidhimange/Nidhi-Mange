@@ -2,10 +2,12 @@
 
 Welcome to My GitHub Portfolio!
 👋 Hi, I'm Nidhi Mange
-📚 Currently pursuing a MS in Business Analytics at the University of the Pacific.
-💼 Passionate about using analytics to solve business challenges.
-🌍 Based in California, United States.
-🔍 Current Interests
+## About Me
+- 📚 Currently pursuing a MS in Business Analytics at the University of the Pacific.
+- 💼 Passionate about using analytics to solve business challenges.
+- 🌍 Based in California, United States.
+
+## 🔍 Current Interests
 Data Visualization and Predictive Analytics
 Strategic Decision Making and Business Strategy
 Agile Project Management and Scrum Methodologies
