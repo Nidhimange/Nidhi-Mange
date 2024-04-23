@@ -14,22 +14,22 @@ Agile Project Management and Scrum Methodologies
 Process Improvement and Efficiency Optimization
 Using JIRA for project tracking and management
 Business Process Modeling and Requirements Analysis
-🛠️ Technical Skills
+
+## 🛠️ Technical Skills
 Programming Languages: Python, SQL, R, R Studio
 Data Analysis Tools: MS Excel (Pivot Tables, VLOOKUP, HLOOKUP, XLOOKUP), Tableau, RapidMiner, JMP Pro 16
 Database Management: MySQL, DBMS
 Software & Tools: Microsoft Office Suite (Word, Outlook, Excel, PowerPoint, SharePoint), MS Visio, Power BI, Power Automate, Visual Studio
 Project Management: Experienced with Agile Methodologies, Proficient in JIRA
 Other Technologies: Jupyter Notebook
-📁 Featured Projects (C:\Users\lenovo\OneDrive\New folder\Projects\The Impact of Clan Culture on Corporate Culture)
-Project: Comparative Study of Zomato and Swiggy (link-to-repo)
+
+## 📁 Featured Projects 
+Project: Comparative Study of Zomato and Swiggy (C:\Users\lenovo\OneDrive\New folder\Projects\The Impact of Clan Culture on Corporate Culture)
 Overview: This project explores the competitive dynamics between two major online food delivery services, Zomato and Swiggy, focusing on their operational strategies, market penetration, and customer preferences. The study involves a detailed comparison using data analysis to understand market shares, customer satisfaction, and service efficiency.
-
 Technologies Used: Google Forms for surveys Statistical tools for data analysis Microsoft Excel for data visualization
-
 What I Learned: The project enhanced my skills in comparative market analysis, data collection through digital surveys, and the interpretation of data to derive meaningful insights. I learned how to effectively use Excel for visualizing data comparisons and gained a deeper understanding of consumer behavior in the online food delivery sector.
-
 Keywords: Data Visualization, Market Analysis, Consumer Behavior, Competitive Strategy
+
 Project: The Impact of Clan Culture on Corporate Culture
 Overview: This research project explores how clan culture influences corporate culture, focusing on the organizational dynamics within educational institutions in India. It assesses the extent to which clan culture fosters environments that prioritize teamwork, commitment, and personal bonds over formal hierarchical structures.
 
