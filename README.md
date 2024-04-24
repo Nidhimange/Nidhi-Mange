@@ -9,14 +9,13 @@ Welcome to My GitHub Portfolio!
 - 📚 Currently pursuing a MS in Business Analytics at the University of the Pacific.
 - 💼 Passionate about using analytics to solve business challenges.
 - 🌍 Based in California, United States.
-
-## 🔍 Current Interests
-Data Visualization and Predictive Analytics
-Strategic Decision Making and Business Strategy
-Agile Project Management and Scrum Methodologies
-Process Improvement and Efficiency Optimization
-Using JIRA for project tracking and management
-Business Process Modeling and Requirements Analysis
+- 🔍 Current Interests:
+  - Data Visualization and Predictive Analytics
+  - Strategic Decision Making and Business Strategy
+  - Agile Project Management and Scrum Methodologies
+  - Process Improvement and Efficiency Optimization
+  - Using JIRA for project tracking and management
+  - Business Process Modeling and Requirements Analysis
 
 ## 🛠️ Technical Skills
  - **Programming Languages:** Python, SQL, R, R Studio
