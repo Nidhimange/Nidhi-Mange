@@ -3,7 +3,7 @@
 Welcome to My GitHub Portfolio!
 👋 Hi, I'm Nidhi Mange
 
-![Alt text for the image](C:\Users\lenovo\OneDrive\New folder\Projects\Headshot Picture.jpg)
+![Profile Photo](C:\Users\lenovo\OneDrive\New folder\Projects\Headshot Picture.jpg)
 
 ## About Me
 - 📚 Currently pursuing a MS in Business Analytics at the University of the Pacific.
@@ -48,7 +48,7 @@ Business Process Modeling and Requirements Analysis
                        cleaning, data analysis, and the application of statistical methods to real-world problems. This project also enhanced my ability to interpret 
                        analytical results into actionable business strategies.
  - **Keywords:** Data Visualization, Flight Delay Analysis, Statistical Analysis, BTS Data, Tableau
- - [**View Repo**] (C:\Users\lenovo\OneDrive\New folder\Projects\The Impact of Clan Culture on Corporate Culture)
+ - [**View Repo**] (C:\Users\lenovo\OneDrive\New folder\Projects\An Analysis of Flight Delay in the US)
 
 3. **Project: Predictors of UG Success & STEM Graduation Rates at UOP** (link-to-repo)
  - **Overview:** This project investigates the factors influencing undergraduate success and STEM graduation rates at the University of the Pacific. Utilizing a 
