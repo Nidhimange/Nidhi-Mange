@@ -3,7 +3,7 @@
 Welcome to My GitHub Portfolio!
 👋 Hi, I'm Nidhi Mange
 
-![Profile Photo](C:\Users\lenovo\OneDrive\New folder\Projects\Headshot Picture.jpg)
+![PHOTO-2024-05-07-17-06-04 (1)](https://github.com/Nidhimange/Nidhi-Mange/assets/161089968/31b7251c-c7c9-4fd9-9924-e7558961efe0)
 
 ## About Me
 - 📚 Currently pursuing a MS in Business Analytics at the University of the Pacific.
