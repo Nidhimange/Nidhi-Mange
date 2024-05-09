@@ -6,16 +6,17 @@ Welcome to My GitHub Portfolio!
 ![PHOTO-2024-05-07-17-06-04 (1)](https://github.com/Nidhimange/Nidhi-Mange/assets/161089968/31b7251c-c7c9-4fd9-9924-e7558961efe0)
 
 ## About Me
-- 📚 Currently pursuing a MS in Business Analytics at the University of the Pacific.
-- 💼 Passionate about using analytics to solve business challenges.
-- 🌍 Based in California, United States.
-- 🔍 Current Interests:
+- 🎓 **Education**: Recently graduated with a MS in Business Analytics from the University of the Pacific.
+- 💼 **Professional Passion**: Passionate about using analytics to solve business challenges. Currently seeking a full-time role where I can apply my skills in data visualization, predictive analytics, and strategic decision making.
+- 🌍 **Location**: Based in California, United States.
+- 🔍 **Current Interests**:
   - Data Visualization and Predictive Analytics
   - Strategic Decision Making and Business Strategy
   - Agile Project Management and Scrum Methodologies
   - Process Improvement and Efficiency Optimization
   - Using JIRA for project tracking and management
   - Business Process Modeling and Requirements Analysis
+
 
 ## 🛠️ Technical Skills
  - **Programming Languages:** Python, SQL, R, R Studio
@@ -37,6 +38,7 @@ Welcome to My GitHub Portfolio!
  - **Keywords:** Data Visualization, Market Analysis, Consumer Behavior, Competitive Strategy
  - [**View Repo**] (C:\Users\lenovo\OneDrive\New folder\Projects\The Impact of Clan Culture on Corporate Culture)
 
+
 2. **Project: An Analysis of Flight Delay in the US**
  - **Overview:** This project analyzes flight delays in the US using data from the Bureau of Transportation Statistics (BTS) from 2015 to 2020. It identifies major 
                  causes of flight delays and their impacts on airline performance. The project employs descriptive statistics, correlation analysis, and regression 
@@ -48,6 +50,7 @@ Welcome to My GitHub Portfolio!
                        analytical results into actionable business strategies.
  - **Keywords:** Data Visualization, Flight Delay Analysis, Statistical Analysis, BTS Data, Tableau
  - [**View Repo**] (C:\Users\lenovo\OneDrive\New folder\Projects\An Analysis of Flight Delay in the US)
+   
 
 3. **Project: Predictors of UG Success & STEM Graduation Rates at UOP** (link-to-repo)
  - **Overview:** This project investigates the factors influencing undergraduate success and STEM graduation rates at the University of the Pacific. Utilizing a 
@@ -112,13 +115,47 @@ Welcome to My GitHub Portfolio!
  - [**View Repo**] (C:\Users\lenovo\OneDrive\New folder\Projects\The Impact of Clan Culture on Corporate Culture)
 
 
+8.**Project: Financial Sentiment Analysis**
+- **Overview:** This project was undertaken to enhance the capabilities of JPMorgan Chase & Co.'s LOXM system, which is designed to optimize equity trade executions by analyzing current market conditions and sentiments. The challenge was to improve the system's accuracy in detecting and reacting to market sentiments derived from vast amounts of real-time data, including news feeds and social media. Our approach utilized advanced machine learning models to interpret and quantify sentiment, aiming to distinguish actionable insights from speculative noise effectively.
+- **Technologies Used:** We employed Python for scripting and data manipulation, along with several machine learning models to tackle the sentiment analysis:
+  - **Naive Bayes Classifier** for its efficacy in baseline sentiment classification.
+  - **Support Vector Machine (SVM)** for its ability to handle high-dimensional data and effectiveness in classifying complex sentiment boundaries.
+  - **Random Forest Classifier** for its robustness and accuracy over diverse datasets.
+  Additionally, the Financial PhraseBank and FiQA datasets were instrumental in training and validating our models, providing a rich source of labeled sentiment data.
+- **Challenges Addressed:** 
+  - **Data Preprocessing:** Handling noisy and unstructured data from social media and news outlets to create a clean, analyzable dataset.
+  - **Model Selection and Tuning:** Experimenting with different algorithms to find the best fit for the nuanced domain of financial sentiment analysis.
+  - **Integration and Real-time Analysis:** Ensuring the models could operate effectively within the existing LOXM system to influence trading decisions in real-time.
+- **What I Learned:** 
+  - **Advanced Machine Learning Techniques:** Gained deeper insights into the application of SVM, Naive Bayes, and Random Forest classifiers in a real-world financial context.
+  - **Team Collaboration and Project Management:** Enhanced skills in collaborative problem-solving and project management, working as part of a diverse team of analysts and developers.
+  - **Impact of Sentiment Analysis in Finance:** Understood the critical role of sentiment analysis in financial markets, particularly in how rapid sentiment shifts can affect market dynamics and trading strategies.
+
+- **Keywords:** Sentiment Analysis, Machine Learning, Financial Markets, Python, SVM, Random Forest, Naive Bayes, JPMorgan, Real-time Data Processing, Equity Trading.
+
+- [**View Repo**](https://github.com/yourusername/financial-sentiment-analysis)
+  
+
+9. ## Project: Data-Driven Decision Making in Engineering and Café Management
+- **Overview:** This project explores the integration of data-driven decision-making within the fields of engineering and café management. Conducted through in-depth interviews with industry leaders, the study reveals how advanced analytics and leadership in data utilization shape operational efficiency and strategic planning in diverse sectors. Jonathan Rojas from the University of the Pacific's DUC Cafeteria and Sachin Kaliye from Ironcraft Engineering Solutions provided insights into how their organizations leverage data to predict outcomes, reduce waste, and enhance customer satisfaction.
+- **Technologies Used:** The project utilized qualitative analysis tools to synthesize interview data, with a focus on how predictive analytics and machine learning are applied in practice. Techniques involved include data collection from operational metrics, predictive modeling for inventory and quality control, and integration of AI-driven systems for real-time decision-making.
+- **What I Learned:** The project deepened my understanding of the practical applications of data analytics in different management contexts. I learned about the challenges of implementing technology-driven solutions across varied industries and the critical role of leadership in fostering an innovative, data-centric culture. This experience highlighted the importance of aligning technology with strategic business goals to drive meaningful improvements and efficiencies.
+- **Keywords:** Data Analytics, Predictive Analytics, Machine Learning, Leadership, Decision Making, Engineering Management, Café Management, Operational Efficiency.
+- [**View Repo**](https://github.com/yourusername/data-driven-decision-making)
 
 
-📫 How to Reach Me
-LinkedIn:(http://www.linkedin.com/in/nidhi-mange)
-Email: n_mange@u.pacific.edu
-📚 Learning & Development
-I am currently dedicated to deepening my expertise in machine learning, focusing on enhancing my skills through various platforms and tools. Here's what I'm actively learning:
+## 📚 Learning & Development
+I am actively dedicated to deepening my expertise in machine learning and project management tools, focusing on enhancing my skills through various platforms and tools. Here's what I'm currently learning:
+- **Machine Learning with R:** Exploring machine learning techniques using R, aiming to master the statistical and predictive capabilities of this powerful language for data analysis.
+- **RapidMiner:** Engaging with this advanced analytics platform to learn more about its drag-and-drop interface for designing machine learning workflows, which helps in speeding up the data preparation, visualization, and model building.
+- **Jupyter Notebook:** Enhancing my proficiency in Jupyter Notebook by using it to document my data science projects that include live code, equations, visualizations, and narrative text.
+- **Spyder:** Using Spyder, an integrated development environment (IDE) for Python, to write and test my Python code. It's specifically designed for data scientists, providing essential tools for introspection, testing, and quick code navigation.
+- **JIRA & Confluence:** Learning to effectively use JIRA and Confluence for project tracking and management, vital tools for agile project management and team collaboration.
+- **Yellow Belt Lean Six Sigma:** Currently undertaking a course to earn my Yellow Belt certification in Lean Six Sigma, focusing on improving quality and efficiency in business processes.
 
-Machine Learning with R: I'm exploring machine learning techniques using R, aiming to master the statistical and predictive capabilities of this powerful language for data analysis. RapidMiner: Engaging with this advanced analytics platform to learn more about its drag-and-drop interface for designing machine learning workflows, which helps in speeding up the data preparation, visualization, and model building. Jupyter Notebook: Enhancing my proficiency in Jupyter Notebook by using it to document my data science projects that include live code, equations, visualizations, and narrative text. Spyder: I'm using Spyder, an integrated development environment (IDE) for Python, to write and test my Python code. It's specifically designed for data scientists, providing essential tools for introspection, testing, and quick code navigation. These learning initiatives are part of my commitment to staying at the forefront of technology and continually improving my ability to derive actionable insights from complex data sets.
+These learning initiatives are part of my commitment to staying at the forefront of technology and continually improving my ability to derive actionable insights from complex data sets and manage projects effectively.
 
+
+## 📫 How to Reach Me
+- **LinkedIn:** [Nidhi Mange](http://www.linkedin.com/in/nidhi-mange)
+- **Email:** [n_mange@u.pacific.edu](mailto:n_mange@u.pacific.edu)
